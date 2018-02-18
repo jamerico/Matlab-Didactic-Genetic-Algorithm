@@ -1,0 +1,24 @@
+Leia-me:
+Algoritmo Genético de forma didática.
+Para maior entendimento de cada etapa, recomenda-se a lida do trabalho 3 da disciplina de
+Introdução à Otimização.
+
+Instruções:
+1 - Abrir o arquivo buscaMinimosGUI.m
+2 - Entrar com os parâmetros.
+
+Descrição:
+Esquema de cores: Azul->Cyano->Amarelo->Verde. Primeiras para as últimas gerações.
+
+Pop Inicial: plot da cor preta em forma de bolinhas.
+Crossover: Plot após o crossover dos P sobreviventes, resultando nos filhos.
+	Plot de acordo com o esquema de cores e em forma de bolinhas.
+
+Mutacao: Plot após a mutação dos filhos. Plot de acordo com o esquema de cores
+	E em forma de V.
+
+
+Bugs e Soluções:
+Às vezes, as variáveis não são preenchidas com seus devidos valores. Para corrigir, apenas abra a interface e dê ENTER após entrar com cada valor, bem como marque as opções
+novamente.
+Em seguida, mande rodar.
