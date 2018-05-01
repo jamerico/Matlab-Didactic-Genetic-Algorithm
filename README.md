@@ -3,11 +3,9 @@ An Didactic Genetic Algorithm for All Learners
 Matlab-Optimization-Algorithms-With-Interface
 Project presented in Optimization Course at Federal University of Rio de Janeiro (UFRJ)
 
-Authors/Autores:
+Authors:
 
 Jean Americo: jamerico "at" poli.ufrj.br
-
-Philipe Miranda: philipemoura "at" poli.ufrj.br
 
 ---------------------- ENGLISH -------------------
 
